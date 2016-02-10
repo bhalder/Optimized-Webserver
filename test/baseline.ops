@@ -1,0 +1,14 @@
+ Operations:		 Success		 Failed			Timed out
+URL0:local-index 	0      0       		0      0       		0      0       
+ Operations:		 Success		 Failed			Timed out
+URL0:local-index 	0      0       		6880   6880    		0      0       
+ Operations:		 Success		 Failed			Timed out
+URL0:local-index 	0      0       		9100   15980   		0      0       
+ Operations:		 Success		 Failed			Timed out
+URL0:local-index 	0      0       		9100   25080   		0      0       
+ Operations:		 Success		 Failed			Timed out
+URL0:local-index 	0      0       		9100   34180   		0      0       
+ Operations:		 Success		 Failed			Timed out
+URL0:local-index 	0      0       		9200   43380   		0      0       
+ Operations:		 Success		 Failed			Timed out
+URL0:local-index 	0      0       		9100   52480   		0      0       

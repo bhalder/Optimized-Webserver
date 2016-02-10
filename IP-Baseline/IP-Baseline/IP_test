@@ -1,0 +1,5 @@
+import psutil
+process = psutil.Porcess(<process-id>)
+process.num_threads()
+process.cpu_times()
+process.num_fds()
